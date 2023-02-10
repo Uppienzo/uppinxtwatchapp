@@ -1,0 +1,14 @@
+.link {
+  text-decoration: none;
+  width: 100%;
+}
+
+.light-tab {
+  background-color: #f1f5f9;
+}
+.active-icon {
+  color: #ff0000;
+}
+.active-text {
+  font-weight: bold;
+}
